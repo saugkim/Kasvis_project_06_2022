@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kasvis</string>
+    <string name="save">SAVE</string>
+    <string name="image">image</string>
+    <string name="label_of_object">label of object</string>
+    <string name="correctness">Total Number</string>
+    <string name="incorrect_images">Incorrectly classified object images</string>
+    <string name="how_many">0</string>
+    <string name="preview_area">preview area</string>
+    <string name="image_button">ImageButton</string>
+    <string name="captured_image">captured image here</string>
+    <string name="confirm_photo">Confirm photo</string>
+    <string name="capture">CAPTURE</string>
+    <string name="date">Date</string>
+    <string name="address">Place</string>
+    <string name="name">Name:</string>
+    <string name="the_name_of_this_plant">name of plant if available</string>
+</resources>
