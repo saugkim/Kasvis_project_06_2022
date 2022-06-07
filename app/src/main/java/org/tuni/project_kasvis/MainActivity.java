@@ -193,8 +193,7 @@ public class MainActivity extends AppCompatActivity {
             }
             saveImageDatabase();
             resetUI();
-            Toast.makeText(this, "Data is saved successfully, make a new entry!", Toast.LENGTH_LONG).show();
-
+            Toast.makeText(this, "Data is saved successfully.\nMake a new entry!", Toast.LENGTH_LONG).show();
         });
 
         listButton.setOnClickListener(view-> {
